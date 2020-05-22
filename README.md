@@ -1,7 +1,7 @@
 # Alex Moll 
 abmoll14@gmail.com 
 
-In Progress Desktop Web App: abmoll.github.io/public/index.html
+In Progress Desktop Web App: http://abmoll.github.io/public/index.html
 
 720-352-8475
 
