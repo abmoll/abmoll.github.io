@@ -18,8 +18,8 @@ app.use(bodyParser.json())
 
 app.get('/apiDirections', function(req, res) {
   var dirUrl = `https://maps.googleapis.com/maps/api/directions/json?origin=${req.query.origin}&destination=${req.query.destination}&key=${dirKey}`
-  //var eventUrl = `http://api.eventful.com/json/events/search?app_key=pcXqHp3KG3jmtgNJ&keywords=${req.query.keywords}&location=${req.query.location}&date=${req.query.date}`
   request(dirUrl, function(err, response, body) {
+    console.log('req: ' + req);
     console.log("started API request");
     res.send(body)
   })
@@ -27,6 +27,7 @@ app.get('/apiDirections', function(req, res) {
 
 app.get('/apiTrail', function(req, res) {
   var trailUrl = `https://www.hikingproject.com/data/get-trails?lat=${req.query.lat}&lon=${req.query.lon}&maxDistance=10&key=200192113-0e12500ca3d4423414d88aaa658cda2e`
+  
   request(trailUrl, function(err, response, body) {
     console.log("started API request");
     res.send(body)
@@ -36,7 +37,8 @@ app.get('/apiTrail', function(req, res) {
 app.get('/apiEvent', function(req, res) {
   //var eventUrl = `http://api.eventful.com/json/events/search?app_key=pcXqHp3KG3jmtgNJ&q=music&l=Boulder+Denver&t=This+weekend`
   var eventUrl = `http://api.eventful.com/json/events/search?keywords=${req.query.keywords}&location=${req.query.location}&date=${req.query.date}&sort_order=popularity&page_size=14&app_key=pcXqHp3KG3jmtgNJ`
-  request(eventUrl, function(err, response, body) {
+  request('http://api.eventful.com/json/events/search?app_key=pcXqHp3KG3jmtgNJ&q=music&l=Boulder+Denver&t=This+weekend', function(err, response, body) {
+  // request(eventUrl, function(err, response, body) {
     console.log("started API request");
     res.send(body)
   })
