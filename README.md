@@ -3,7 +3,7 @@
 SUMMARY	
 Full stack software engineer with hands-on experience building web applications using JavaScript, MongoDB, Express, Vue.js, React, and Node.js. Supportive and enthusiastic team collaborator with a passion for clean design.
 
-Full Stack Software Engineer Denovo Ventures, LLC Jan. 2018 – Present
+Full Stack Software Engineer, Denovo Ventures, LLC Jan. 2018 – Present
 
 • Provided continuous software development support for a proprietary IT
 services management application within a team of 4 DevOps engineers. Used
