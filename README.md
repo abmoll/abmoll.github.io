@@ -62,7 +62,7 @@ and used MongoDB to preserve trips with persistent data.
 ___
 
 ### Website Documentation Developer
-Viavi Solutions, Aug. 2017 – Dec. 2017
+Viavi Solutions, Apr. 2010 – Jun. 2017
 
 * Streamlined business processes by producing standards for single-sourcing web documents and templates in XML and HTML format. Built a content management system using HTML, CSS, and JavaScript to enable document reuse.
 * Wrote and maintained online help and technical documentation on websites for a major telecom solutions company. Performed troubleshooting on all issues that arose within the suite of online help projects across North America, Europe, and Asia.
