@@ -5,7 +5,7 @@ In Progress Desktop Web App: http://abmoll.github.io/public/index.html
 
 720-352-8475
 
-SUMMARY	
+## SUMMARY	
 
 Full stack software engineer with hands-on experience building web applications using JavaScript, MongoDB, Express, Vue.js, React, and Node.js. Supportive and enthusiastic team collaborator with a passion for clean design.
 
@@ -37,6 +37,7 @@ emails from external customers.
 tests for application features using Chai and Mocha. The tests leveraged a
 Node library which provided an API to control headless Chrome. Test results
 validated technical functionality and were saved in a MongoDB collection.
+___
 
 ### Full Stack Web Developer
 CodeCraft School of Technology / Skill Distillery
