@@ -69,3 +69,12 @@ Viavi Solutions, Apr. 2010 – Jun. 2017
 * Made software developer’s jobs easier by using agile processes to create well-structured SDK Guides, API manuals, and installation guides.
 * Pioneered visual learning in my department by producing multi-media training and web-based user documentation suites for cloud-based packet filtering solutions.
 
+___
+### Performance Reviews
+In performance reviews, I have been rated as “frequently exceeds expectations”. Here are some quotes from managers and team members:
+* “Alex has established himself as a strong technical communicator and excellent team player. He has also garnered the respect of his R&D colleagues.”
+* “Alex has good teamwork skills and is always open to help resolve issues. He understands product technology readily. I enjoyed working with Alex on [project] and he was very helpful in working through some issues that we had. We appreciate his ownership of that problem.”
+* “Alex has also shown the poise and judgement to take on more leadership roles within, and on behalf of, the tech pubs team.”
+* “Alex is a quick learner and innovator - he can handle the full spectrum of work facing this team.”
+* “Alex is also very responsive to my requests for information, to requests for help from other team members, and from other colleagues.”
+
