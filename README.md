@@ -39,6 +39,7 @@ emails from external customers.
 tests for application features using Chai and Mocha. The tests leveraged a
 Node library which provided an API to control headless Chrome. Test results
 validated technical functionality and were saved in a MongoDB collection.
+
 ___
 
 ### Full Stack Web Developer
@@ -57,10 +58,12 @@ and hiking trails for cities around the world.
 
 * Created a back-end server in Express to handle request and response routes,
 and used MongoDB to preserve trips with persistent data.
+
 ___
 
 ### Website Documentation Developer
-Viavi Solutions
+Viavi Solutions,
+
 Aug. 2017 – Dec. 2017
 
 * Streamlined business processes by producing standards for single-sourcing web documents and templates in XML and HTML format. Built a content management system using HTML, CSS, and JavaScript to enable document reuse.
