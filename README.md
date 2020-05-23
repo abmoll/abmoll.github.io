@@ -57,3 +57,14 @@ and hiking trails for cities around the world.
 
 * Created a back-end server in Express to handle request and response routes,
 and used MongoDB to preserve trips with persistent data.
+___
+
+### Website Documentation Developer
+Viavi Solutions
+Aug. 2017 – Dec. 2017
+
+* Streamlined business processes by producing standards for single-sourcing web documents and templates in XML and HTML format. Built a content management system using HTML, CSS, and JavaScript to enable document reuse.
+* Wrote and maintained online help and technical documentation on websites for a major telecom solutions company. Performed troubleshooting on all issues that arose within the suite of online help projects across North America, Europe, and Asia.
+* Made software developer’s jobs easier by using agile processes to create well-structured SDK Guides, API manuals, and installation guides.
+* Pioneered visual learning in my department by producing multi-media training and web-based user documentation suites for cloud-based packet filtering solutions.
+
