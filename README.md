@@ -1,13 +1,15 @@
 # Alex Moll 
 abmoll14@gmail.com 
 
-In Progress Desktop Web App: http://abmoll.github.io/public/index.html
+Demo Desktop Web App (in progress): http://abmoll.github.io/public/index.html
 
 720-352-8475
 
 ## SUMMARY	
 
 Full stack software engineer with hands-on experience building web applications using JavaScript, MongoDB, Express, Vue.js, React, and Node.js. Supportive and enthusiastic team collaborator with a passion for clean design.
+
+---
 
 ### Full Stack Software Engineer 
 Denovo Ventures, LLC 
