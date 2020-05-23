@@ -5,22 +5,22 @@ Demo Desktop Web App (in progress): http://abmoll.github.io/public/index.html
 
 720-352-8475
 
-## SUMMARY	
+### SUMMARY	
 
 Full stack software engineer with hands-on experience building web applications using JavaScript, MongoDB, Express, Vue.js, React, and Node.js. Supportive and enthusiastic team collaborator with a passion for clean design.
 
----
+___
 
 ### Full Stack Software Engineer 
 Denovo Ventures, LLC 
 Jan. 2018 – Present
 
-• Provided continuous software development support for a proprietary IT
+* Provided continuous software development support for a proprietary IT
 services management application within a team of 4 DevOps engineers. Used
 agile processes and the latest JavaScript frameworks to build a reliable, highly
 robust web application used by over 200 major companies.
 
-• Integrated Google Analytics with our proprietary ITSM website to track
+* Integrated Google Analytics with our proprietary ITSM website to track
 application usage. Gathered metrics such as unique external customer page
 views, average time on page, and average page load time to enhance website
 features, improve performance, and increase user retention.
