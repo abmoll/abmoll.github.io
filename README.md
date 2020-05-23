@@ -1,7 +1,7 @@
 # Alex Moll 
 abmoll14@gmail.com 
 
-In Progress Desktop Web App (places only): http://abmoll.github.io/public/index.html
+In Progress Desktop Web App: http://abmoll.github.io/public/index.html
 
 720-352-8475
 
@@ -12,6 +12,8 @@ Full stack software engineer with hands-on experience building web applications 
 Full Stack Software Engineer 
 Denovo Ventures, LLC 
 Jan. 2018 – Present
+
+|content1|content2|
 
 • Provided continuous software development support for a proprietary IT
 services management application within a team of 4 DevOps engineers. Used
