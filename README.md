@@ -9,11 +9,9 @@ SUMMARY
 
 Full stack software engineer with hands-on experience building web applications using JavaScript, MongoDB, Express, Vue.js, React, and Node.js. Supportive and enthusiastic team collaborator with a passion for clean design.
 
-Full Stack Software Engineer 
+### Full Stack Software Engineer 
 Denovo Ventures, LLC 
 Jan. 2018 – Present
-
-|content1|content2|
 
 • Provided continuous software development support for a proprietary IT
 services management application within a team of 4 DevOps engineers. Used
@@ -40,7 +38,7 @@ tests for application features using Chai and Mocha. The tests leveraged a
 Node library which provided an API to control headless Chrome. Test results
 validated technical functionality and were saved in a MongoDB collection.
 
-Full Stack Web Developer
+### Full Stack Web Developer
 CodeCraft School of Technology / Skill Distillery
 Aug. 2017 – Dec. 2017
 
