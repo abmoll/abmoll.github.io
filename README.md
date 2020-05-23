@@ -63,7 +63,6 @@ ___
 
 ### Website Documentation Developer
 Viavi Solutions,
-
 Aug. 2017 – Dec. 2017
 
 * Streamlined business processes by producing standards for single-sourcing web documents and templates in XML and HTML format. Built a content management system using HTML, CSS, and JavaScript to enable document reuse.
